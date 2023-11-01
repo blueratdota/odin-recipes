@@ -1,0 +1,24 @@
+/* main page css */
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: pink;
+}
+
+.main{
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+.unordered{
+    list-style-type: none;
+}
+.list{
+    font-size: 14px;
+}

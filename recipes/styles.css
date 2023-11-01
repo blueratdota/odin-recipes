@@ -1,0 +1,17 @@
+/* for recipes css */
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: pink;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+.list{
+    font-size: 14px;
+}
